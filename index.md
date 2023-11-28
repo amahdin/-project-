@@ -1,4 +1,4 @@
-# My Name
+# Asif Mahdin
 Email: amahdin@ucsd.edu
 
 ## Section Information
